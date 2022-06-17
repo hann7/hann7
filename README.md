@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=hann7&count_private=true&show_icons=true&theme=panda)](https://github.com/hann7/github-readme-stats)
 
